@@ -1,0 +1,18 @@
+ul .MuiPaginationItem-root {
+    color: #fff;
+    background-color: #2c2540;
+}
+ul .MuiPaginationItem-ellipsis {
+    color: #fff;
+    background-color: transparent;
+}
+ul .MuiPaginationItem-ellipsis:hover {
+    background-color: transparent;
+}
+ul .Mui-selected {
+    color: #fff !important;
+    background: linear-gradient(45deg, #00aeff, #a68eff);
+}
+ul .Mui-selected:hover {
+    background-color: #66c94d
+}
